@@ -1,6 +1,6 @@
 # Flowty Network Optimization Solver
 
-[![Gitter](https://badges.gitter.im/flowty/community.svg)](https://gitter.im/flowty/community)
+![GitHub issues](https://img.shields.io/github/issues/flowty/flowty) [![Gitter](https://badges.gitter.im/flowty/community.svg)](https://gitter.im/flowty/community)
 
 This is the github home of [Flowty](https://flowty.ai).
 
