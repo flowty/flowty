@@ -1,6 +1,6 @@
 # Flowty Network Optimization Solver
 
-[![GitHub issues](https://img.shields.io/github/issues/flowty/flowty)](https://github.com/flowty/flowty/issues) [![Gitter](https://badges.gitter.im/flowty/community.svg)](https://gitter.im/flowty/community) [![PyPI](https://img.shields.io/pypi/v/flowty)](https://pypi.org/project/flowty/)
+[![GitHub issues](https://img.shields.io/github/issues/flowty/flowty)](https://github.com/flowty/flowty/issues) [![Gitter](https://badges.gitter.im/flowty/community.svg)](https://gitter.im/flowty/community) [![PyPI](https://img.shields.io/pypi/v/flowty)](https://pypi.org/project/flowty/) [![Anaconda](https://anaconda.org/flowty/flowty/badges/version.svg)](https://anaconda.org/Flowty/flowty)
 
 This is the github home of [Flowty](https://flowty.ai).
 
